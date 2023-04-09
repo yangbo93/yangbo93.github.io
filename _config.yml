@@ -12,9 +12,9 @@ description: "Learning, sharing and improving."
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/yangbo93/yangbo93.github.io/images/blog.jpg
+avatar: https://raw.githubusercontent.com/yangbo93/yangbo93.github.io/master/images/blog.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/yangbo93/yangbo93.github.io/images/blog.jpg
+favicon: https://github.com/yangbo93/yangbo93.github.io/raw/master/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
