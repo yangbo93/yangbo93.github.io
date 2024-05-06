@@ -41,8 +41,8 @@ footer-links:
   dribbble:
   #zhihu: xxjss
   email: xxjss@163.com
-  facebook:
-  flickr:
+  facebook: Lengyu Jiang
+  flickr: 
   github: jaaleng 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
@@ -51,7 +51,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  #twitter: frommidworld
+  twitter: https://twitter.com/JLengYu
   youtube:
 
 # Text under the icons in footer
