@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Young Blog"
+name: "Jaaleng Blog"
 # Short bio or description (displayed in the header)
 description: "Learning, sharing and improving."
 
@@ -12,9 +12,9 @@ description: "Learning, sharing and improving."
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/yangbo93/yangbo93.github.io/master/images/blog.jpg
+avatar: https://pic.imgdb.cn/item/663876b90ea9cb14031c4305.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/yangbo93/yangbo93.github.io/raw/master/images/favicon.ico
+favicon: https://pic.imgdb.cn/item/663876ba0ea9cb14031c4336.jpg
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -30,7 +30,7 @@ navigation:
     url: /tags
 
 # Pagination
-paginate: 8
+paginate: 15
 
 excerpt_separator: <!-- more -->
 
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  #zhihu: yang
-  email: yangbo_hn@163.com
-  facebook:
-  flickr:
-  github: yangbo93 
+  #zhihu: xxjss
+  email: xxjss@163.com
+  facebook: Lengyu Jiang
+  flickr: 
+  github: jaaleng 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -51,11 +51,11 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  #twitter: frommidworld
+  twitter: https://twitter.com/JLengYu
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2023 young
+footer-text: Copyright (c) 2023 Jaaleng
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -63,17 +63,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 4b26d9668a918d30b845
-  clientSecret: e71e82fdd0b32fce839efda0681544450806e5c9
-  repo: yangbo93.github.io
-  owner: yangbo93
+  clientID: Ov23li6VX5E2r3ctb8C3
+  clientSecret: b7dcda6737e91898a9f9390995288e0f955bd9e5
+  repo: jaaleng.github.io
+  owner: jaaleng
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://yangbo93.github.io
+url: https://jaaleng.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
