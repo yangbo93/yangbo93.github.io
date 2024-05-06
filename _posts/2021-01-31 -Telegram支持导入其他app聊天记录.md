@@ -7,9 +7,8 @@ tags: Telegram,Durov,vr,
 ---
 
 Telegram CEO Durov 发文
-
+<!---more--->
 部分用户希望将他们的聊天记录从 WhatsApp 转移到 Telegram。两周前，我意识到这在理论上应该是可行的，昨天我们在 iOS 和 Android 上提供了这个功能，同时还做了许多其他改进。它还支持从 KakaoTalk 和 Line 这两个在改用 Telegram 之前使用的应用中转移聊天记录。
----
 ![](https://img.imgdb.cn/item/6016a01d3ffa7d37b35b8b05.jpg)
 
 这样的功能从来没有在大型应用中实现过，我们的团队不得不施展大量的魔法来实现它。我们对结果很满意：将消息转移到 Telegram 中可以节省磁盘空间，不再担心第三方备份或更换设备的问题。
