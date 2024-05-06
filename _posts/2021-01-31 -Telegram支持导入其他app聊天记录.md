@@ -1,11 +1,9 @@
 ---
 title: Telegram支持导入其他app聊天记录
-date: 2021-01-31 20:10:45
-top_img:
+date: 2021-01-31 20:10:40
 tags: Telegram,Durov,vr,
 
 ---
-
 Telegram CEO Durov 发文
 <!---more--->
 部分用户希望将他们的聊天记录从 WhatsApp 转移到 Telegram。两周前，我意识到这在理论上应该是可行的，昨天我们在 iOS 和 Android 上提供了这个功能，同时还做了许多其他改进。它还支持从 KakaoTalk 和 Line 这两个在改用 Telegram 之前使用的应用中转移聊天记录。
